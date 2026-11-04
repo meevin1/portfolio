@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(20, 20, 20);
+    color: rgb(210, 210, 210);
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+    padding: 100px 0px 0px 0px;
+
+    /*Sora font from google*/
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+h2 {
+    font-weight: 400;
+}
