@@ -7,7 +7,7 @@ body {
     padding: 100px 0px 0px 0px;
 
     /*Sora font from google*/
-    font-family: "Sora", sans-serif;
+    font-family: "Sora", Helvetica, sans-serif ;
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
@@ -19,4 +19,18 @@ h1 {
 
 h2 {
     font-weight: 400;
+}
+
+p {
+/*    font-family: Arial;*/
+    padding: 0px 8px;
+    line-height: 8px;
+}
+
+a {
+    color: rgb(50, 50, 210);
+}
+
+a:hover {
+    color: rgb(50, 50, 150);
 }
