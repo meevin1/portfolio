@@ -49,6 +49,10 @@ a:hover {
 }
 
 @media screen and (max-width: 60em) {
+    body {
+        width: 100%
+    }
+
     .project_container {
         flex-direction: column;
     }
